@@ -1,0 +1,116 @@
+#header{
+    background: linear-gradient(to right,rgb(23,9,218),rgb(13,5,134));
+}
+
+#header img{
+    width: 100px;
+}
+
+#header .bi-list{
+    color: white;
+}
+
+#header .navbar-toggler{
+    border: 1px solid white;
+    box-shadow: none;
+}
+
+#header ul li a{
+    color: white;
+    transition: color;
+    transition-duration: 3s;
+}
+
+
+#header ul li a:hover{
+    color: rgb(0, 255, 21);
+}
+
+#banner{
+    background: linear-gradient(to right,rgb(23,9,218),rgb(13,5,134));
+    
+}
+
+#banner #bannerimg{
+    width: 200px;
+    border-radius: 50%;
+}
+
+#banner h4{
+    text-align: center;
+    color: white;
+    
+}
+
+#banner img{
+    width: 100%;
+}
+
+#banner p{
+    color: white;
+}
+
+#about img{
+    width: 100px;
+}
+
+#about h4{
+    color: white;
+    padding-top: 13px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+#about h2{
+    font-family:'Alumni Sans Pinstripe', sans-serif;
+}
+
+
+
+#testi img{
+    width: 80px;
+    border-radius: 50%;
+    transition-property: width;
+    transition-duration: 2s;
+}
+
+#testi img:hover{
+    width: 150px;
+}
+
+#testi h2{
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+#footer img{
+    width: 80px;
+}
+
+#footer{
+    background: linear-gradient(to right,rgb(23,9,218),rgb(13,5,134));
+}
+
+#footer h2{
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    font-size: 20px;
+}
+
+#footer span{
+    color: white;
+    font-size: 25px;
+
+}
+#footer p{
+    color: white;
+    font-size: 15px;
+}
+
+#logofooter{
+    width: 100px;
+}
+
+#footer #footerborder{
+    width: 100%;
+}
